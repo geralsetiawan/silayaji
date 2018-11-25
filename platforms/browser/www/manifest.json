@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Silayaji",
+  "short_name": "Silayaji",
+  "version": "com.apps.silayaji",
+  "description": "Sistem Informasi Layanan Haji dan Umroh",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#2196f3"
+}

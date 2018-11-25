@@ -1,0 +1,4 @@
+#Sun Nov 25 21:26:00 WIB 2018
+base.0=/home/geral/Projects/silayaji/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
